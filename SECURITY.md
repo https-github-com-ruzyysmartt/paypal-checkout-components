@@ -1,5 +1,5 @@
 # Security Policy
-
+https://github.com/https-github-com-ruzyysmartt/paypal-checkout-components-gits.git
 At PayPal, we take security very seriously. If you have found a security bug with PayPal, we ask that you follow the below process to share security bugs with us in a responsible way. This process allows us to review and resolve the issue and keep our customers safe while providing you public recognition for the submission.
 
 ## PayPal Bug Bounty Program
@@ -19,3 +19,5 @@ If you have questions about the bug bounty program, reach out to us at [ppbugbou
 ## History
 
 No reported issues for this project.
+29 jan 2020
+ruzyysmartt
